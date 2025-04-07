@@ -83,3 +83,5 @@ No external libraries are required. The toolkit uses only Python’s built-in mo
 ![image](https://github.com/user-attachments/assets/e31a1a6b-0fea-4829-a405-821719da2b1e)
 
 ![image](https://github.com/user-attachments/assets/d5230a0f-4ec5-4d1c-bacb-c42b76497ac8)
+
+![image](https://github.com/user-attachments/assets/0046d15d-573b-4c4e-947c-9bb9bea75fe1)
