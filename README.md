@@ -79,3 +79,6 @@ No external libraries are required. The toolkit uses only Python’s built-in mo
 10. Not tested for production or large-scale targets.
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/e31a1a6b-0fea-4829-a405-821719da2b1e)
+
